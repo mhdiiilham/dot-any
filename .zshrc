@@ -3,14 +3,7 @@ export GOPATH=/Users/$USER/go
 export PATH="$GOPATH/bin:$PATH"
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/m.ilham/.oh-my-zsh"
-
-export GONOPROXY="bitbucket.org/Amartha"
-export GONOSUMDB="bitbucket.org/Amartha"
-export GOPRIVATE="bitbucket.org/Amartha"
-
-# bindkey "^[[A" history-search-backward
-# bindkey "^[[B" history-search-forward
+export ZSH="/Users/$HOME/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
